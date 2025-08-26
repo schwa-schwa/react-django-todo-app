@@ -1,0 +1,16 @@
+# Python / Django
+__pycache__/
+*.pyc
+db.sqlite3
+/venv/
+
+# Node.js / React
+/frontend/node_modules/
+/frontend/build/
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# IDE / Editor specific
+.vscode/
+.idea/
